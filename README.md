@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp6064352.jpg)]
+![MasterHead](https://wallpapercave.com/wp/wp6064352.jpg)
 
 <h1 align="center">Hi 👋, I'm Filip Bulatovic</h1>
 <h3 align="center">A passionate software developer from Serbia</h3>
